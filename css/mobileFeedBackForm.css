@@ -1,0 +1,50 @@
+.ui-widget-content{
+    top: 35% !important;
+    height: 180px !important;
+}
+.ui-dialog-titlebar-close{
+    visibility: hidden !important;
+}
+
+.feedback-answer{
+    margin: 1rem 0 0 0;
+    text-align: center;
+    height: 53px;
+}
+
+.mobileapp-qtntype-input{
+    border: 1px solid gainsboro;
+    border-radius: 2px;
+    padding: 2px;
+}
+
+.feedback-thanks{
+    display:none;
+    color: green;
+    font-size: 26px;
+    text-align: center;
+}
+
+.formFooter {
+    float: right;
+}
+
+.footerArrow{
+    font-size:35px;
+    color: green;
+    cursor: pointer;
+}
+
+.feedback-close{
+    display: none;
+    color: darkcyan;
+    margin-top: 2.4rem;
+    background-color: #00AB74;
+    border-radius: 100px;
+    color: #ffffff;
+    padding: 5px;
+    border: none;
+    width: 60px;
+    font-size: 14px;
+    cursor:pointer;
+}
